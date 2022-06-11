@@ -1,5 +1,4 @@
 # python-twitch-chat-bot
-A very simple boilerplate.
 
 You will need to create a new account on twitch specifically for the bot!
 
