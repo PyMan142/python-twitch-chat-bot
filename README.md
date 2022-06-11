@@ -4,6 +4,8 @@ Very very very simple twitch chat boilerplate using twitchio
 # Setup
 pip install -U twitchio
 
+Must be python version 3.7+ (Or higher)
+
 https://twitchio.dev/en/latest/installing.html
 
 # Plans
