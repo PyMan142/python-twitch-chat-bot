@@ -1,5 +1,7 @@
 # python-twitch-chat-bot
-Very very very simple twitch chat boilerplate using twitchio 
+A very simple boilerplate.
+
+You will need to create a new account on twitch specifically for the bot!
 
 # Setup
 pip install -U twitchio
