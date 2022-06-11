@@ -3,6 +3,7 @@ Very very very simple twitch chat boilerplate using twitchio
 
 # Setup
 pip install -U twitchio
+
 https://twitchio.dev/en/latest/installing.html
 
 # Plans
